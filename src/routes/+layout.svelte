@@ -1,10 +1,7 @@
 <script lang="ts">
     import '../app.postcss';
-    // const feather = require('feather-icons');
     import * as feather from 'feather-icons';
     import { onMount } from 'svelte';
-    // import feather from './../../node_modules/feather-icons/dist/feather.min.js';
-    // ('node_modules/feather-icons/dist/feather.min.js');
     onMount(() => feather.replace());
 </script>
 
