@@ -1,1 +1,7 @@
-<h1 class="my-2 text-4xl font-bold">S:KIT</h1>
+<h2>And, here you are.</h2>
+
+<style lang="postcss">
+    h2 {
+        @apply text-xl font-light italic text-gray-400;
+    }
+</style>
