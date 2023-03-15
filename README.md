@@ -10,17 +10,17 @@ And here are steps to be taken;
 
 ```bash
 # clone this repo
-1. gh repo clone nkoane/svelte-kit-base [scaffold-dir]
+gh repo clone nkoane/svelte-kit-base [scaffold-dir]
 
 # change into your scaffolded-dir then delete the .git folder
-2. cd [scaffold-dir] 
-3. rm -rf .git
+cd [scaffold-dir] 
+rm -rf .git
 
 # install all dependencies
-4. pnpm install
+pnpm install
 
 # start the dev server
-5. pnpm run dev -- --open
+pnpm run dev -- --open
 ```
 
 ## Features
