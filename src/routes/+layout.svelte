@@ -23,6 +23,6 @@
 
 <style lang="postcss">
     nav a {
-        @apply inline-block border-l-2 border-black p-0 px-8 transition-all duration-100 ease-in-out hover:border-gray-400 hover:bg-yellow-200 hover:text-gray-900;
+        @apply inline-block border-l-2 border-gray-200 p-0 px-8 transition-all duration-100 ease-in-out last:border-r-2 hover:border-l-red-400 hover:bg-yellow-200 hover:text-gray-600;
     }
 </style>
