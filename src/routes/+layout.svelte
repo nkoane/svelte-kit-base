@@ -1,6 +1,6 @@
 <script lang="ts">
     import '../app.postcss';
-    import * as feather from 'feather-icons';
+    import feather from 'feather-icons';
     import { onMount } from 'svelte';
     onMount(() => feather.replace());
 </script>
