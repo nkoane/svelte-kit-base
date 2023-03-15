@@ -1,7 +1,11 @@
-<h2>And, here you are.</h2>
+<script lang="ts">
+    import type { PageData, ActionData } from './$types';
+    import Register from '$lib/form/Register.svelte';
 
-<style lang="postcss">
-    h2 {
-        @apply text-xl font-light italic text-gray-400;
-    }
-</style>
+    export let data: PageData;
+    export let form: ActionData;
+
+    console.log(data, form);
+</script>
+
+<Register {form} />
