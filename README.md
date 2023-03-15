@@ -30,3 +30,4 @@ This has the following scafolded into it:
 - [x] [Prettier](https://prettier.io/)
 - [x] [ESLint](https://eslint.org/)
 - [x] [Feather Icons](https://feathericons.com/)
+- [x] [Zod](https://zod.dev)
