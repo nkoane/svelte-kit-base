@@ -27,11 +27,11 @@ pnpm run dev -- --open
 
 This has the following scafolded into it:
 
--   [x] [SvelteKit](https://kit.svelte.dev/)
--   [x] [TailwindCSS](https://tailwindcss.com/)
--   [x] [Prettier](https://prettier.io/)
--   [x] [ESLint](https://eslint.org/)
--   [x] [Feather Icons](https://feathericons.com/)
+-   [SvelteKit](https://kit.svelte.dev/)
+-   [TailwindCSS](https://tailwindcss.com/)
+-   [Prettier](https://prettier.io/)
+-   [ESLint](https://eslint.org/)
+-   [Feather Icons](https://feathericons.com/)
 
 ## Questions?
 
