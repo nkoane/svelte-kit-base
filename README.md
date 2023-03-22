@@ -13,7 +13,7 @@ And here are steps to be taken;
 gh repo clone nkoane/svelte-kit-base [scaffold-dir]
 
 # change into your scaffolded-dir then delete the .git folder
-cd [scaffold-dir] 
+cd [scaffold-dir]
 rm -rf .git
 
 # install all dependencies
@@ -27,11 +27,11 @@ pnpm run dev -- --open
 
 This has the following scafolded into it:
 
-- [x] [SvelteKit](https://kit.svelte.dev/)
-- [x] [TailwindCSS](https://tailwindcss.com/)
-- [x] [Prettier](https://prettier.io/)
-- [x] [ESLint](https://eslint.org/)
-- [x] [Feather Icons](https://feathericons.com/)
+-   [x] [SvelteKit](https://kit.svelte.dev/)
+-   [x] [TailwindCSS](https://tailwindcss.com/)
+-   [x] [Prettier](https://prettier.io/)
+-   [x] [ESLint](https://eslint.org/)
+-   [x] [Feather Icons](https://feathericons.com/)
 
 ## Questions?
 
