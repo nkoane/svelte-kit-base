@@ -20,7 +20,7 @@
     },
     "devDependencies": {
         "@sveltejs/adapter-auto": "^2.0.0",
-        "@sveltejs/kit": "^1.13.0",
+        "@sveltejs/kit": "^1.14.0",
         "@tailwindcss/forms": "^0.5.3",
         "@tailwindcss/line-clamp": "^0.4.2",
         "@types/feather-icons": "^4.29.1",
@@ -32,7 +32,7 @@
         "eslint-plugin-svelte3": "^4.0.0",
         "postcss": "^8.4.21",
         "postcss-load-config": "^4.0.1",
-        "prettier": "^2.8.6",
+        "prettier": "^2.8.7",
         "prettier-plugin-svelte": "^2.10.0",
         "prettier-plugin-tailwindcss": "^0.2.5",
         "svelte": "^3.57.0",
