@@ -1,8 +1,6 @@
 <script lang="ts">
     import '../app.postcss';
-    import feather from 'feather-icons';
-    import { onMount } from 'svelte';
-    onMount(() => feather.replace());
+    import { Code } from 'lucide-svelte';
 </script>
 
 <svelte:head>
@@ -10,7 +8,7 @@
 </svelte:head>
 <main class="mx-auto mt-8 w-10/12 rounded-md bg-gray-50 p-6">
     <header class="mb-4 flex items-center gap-2">
-        <i data-feather="code" class="h-8 w-8 text-red-600" />
+        <Code class="h-8 w-8 text-red-600" />
         <h1 class="my-2 text-4xl font-bold"><a href="/">S:KIT</a></h1>
         <nav class="ml-auto flex text-right font-bold text-gray-400">
             <a href="/">ROOT</a>
